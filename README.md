@@ -1,16 +1,7 @@
-# climate_app
+This Flutter App shows the weather of the location which you are currently on and the city we want to know about, with information like humidity, wind speed and the feels like temperature.
 
-A new Flutter project.
+![FirstWeather](https://github.com/user-attachments/assets/325c34c0-4aeb-49cf-8d29-26e51cf509bb)
 
-## Getting Started
+We can get the information of any city by writing the name of it and pressing get weather button.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![SecondWeather](https://github.com/user-attachments/assets/493ef646-4ac9-490e-bdc2-3dfda126254d)
